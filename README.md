@@ -7,10 +7,10 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To run this page online you only need to acces this page:
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+In case you have cloned or downloaded it, just run the index.html
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Feel free to colaborate with our page. 
